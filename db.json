@@ -1,15 +1,14 @@
 {
-    "1viw7eukVD": {
-        "bigImageUrl": "https://storage.googleapis.com/thefabulousco.appspot.com/content/1/6/tfss-42a11f1d-c672-4a2f-aab3-666d0435c06b-large.png",
-        "color": "#f6c519",
-        "createdAt": 1477942947183,
-        "habitId": "hSiQTS7KML",
-        "imageUrl": "https://storage.googleapis.com/thefabulousco.appspot.com/content/1/6/tfss-2df138bc-6587-4420-8c89-30781709d71b-small.png",
-        "name": "Sphere: Running Week 6",
-        "objectId": "1viw7eukVD",
-        "placeholderColor": "#2B35BE",
-        "position": 9,
-        "subtitle": "Weekly Refresh",
-        "updatedAt": 1483974075878
-    }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
